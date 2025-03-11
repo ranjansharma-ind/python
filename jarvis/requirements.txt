@@ -1,0 +1,8 @@
+SpeechRecognition==3.10.0  # For voice recognition
+pyttsx3==2.90  # For text to speech
+PyAudio==0.2.14  # For audio input/output
+python-dotenv==1.0.0  # For environment variables
+requests==2.31.0  # For API requests
+pyautogui==0.9.54  # For system control
+wikipedia==1.4.0  # For web searches
+wolframalpha==5.0.0  # For calculations and knowledge queries 
